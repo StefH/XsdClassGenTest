@@ -1,8 +1,7 @@
 # XsdClassGenTest
-XsdClassGen Test project
-Based on https://gitlab.com/pommalabs/xsdclassgen
+XsdClassGen Test project based on https://gitlab.com/pommalabs/xsdclassgen (which is based on https://www.nuget.org/packages/XsdClassGen)
 
-Modifications:
+##### Modifications:
 - remove generation from the serialization classes and implemented a simple generic `XmlConverter` class.
 
 
