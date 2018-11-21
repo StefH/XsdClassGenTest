@@ -1,0 +1,2 @@
+# XsdClassGenTest
+XsdClassGen Test project
