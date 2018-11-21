@@ -59,6 +59,9 @@
     <None Include="1.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="2.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="XsdClassGen.mapping" />
   </ItemGroup>
   <ItemGroup>
